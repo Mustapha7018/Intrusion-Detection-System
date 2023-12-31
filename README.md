@@ -51,3 +51,8 @@ To simulate this project on Tinkercad, follow these steps:
 *   `capture.py`: Python script for capturing images and sending alerts.
 *   `requirements.txt`: List of Python dependencies.
 *   `test2.ino`: Arduino sketch for motion detection.
+
+## 📷 Project Image
+
+![Simple Alarm Detection System](Simple%20Alarm%20Detection%20System.png)
+
